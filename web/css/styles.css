@@ -1151,6 +1151,11 @@ input[type='checkbox'] {
 	margin-bottom: 1.125rem;
 }
 
+.basic-2 h2 {
+	padding-top: 3.5rem;
+	margin-bottom: 3rem;
+}
+
 .basic-2 .btn-solid-reg {
 	margin-top: 0.5rem;
 }
